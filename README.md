@@ -2,9 +2,9 @@
 
 This database contains 89 videos.
 
-Due to the space limitation, only bin files compressed at QP = 32 by HEVC are uploaded here.
+Due to the space limitation, only bin files compressed by HEVC at QP = 32 are uploaded here.
 
-To access the raw videos, please contact yangren@buaa.edu.cn
+To access the raw videos, please contact yangren@buaa.edu.cn.
 
 Best wishes.
 
